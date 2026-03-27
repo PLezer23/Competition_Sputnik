@@ -1,0 +1,39 @@
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ
+1.	Wireless sensor networks [Электронный ресурс]. URL: https://en.wikipedia.org/wiki/Wireless_sensor_network (2026).
+Перевод: Беспроводные сенсорные сети [Электронный ресурс].
+2.	Wireless sensor networks: a survey [Электронный ресурс]. URL: https://www.sciencedirect.com/science/article/pii/S1389128601003024 (2002).
+Перевод: Беспроводные сенсорные сети: обзор [Электронный ресурс].
+3.	Space-based wireless sensor networks: design issues [Электронный ресурс]. URL: https://ieeexplore.ieee.org/document/7119117 (2015).
+Перевод: Беспроводные сенсорные сети на базе космоса: вопросы проектирования [Электронный ресурс].
+4.	A wireless sensor network for planetary exploration [Электронный ресурс]. URL: https://ieeexplore.ieee.org/document/1655923 (2006).
+Перевод: Беспроводная сенсорная сеть для планетарной эксплорации [Электронный ресурс].
+5.	Swarm of micro-probes for atmospheric exploration [Электронный ресурс]. URL: https://link.springer.com/article/10.1007/s12567-017-0175-3 (2018).
+Перевод: Рой микрозондов для атмосферной эксплорации [Электронный ресурс].
+6.	Europa Clipper [Электронный ресурс]. URL: https://science.nasa.gov/mission/europa-clipper/ (2025).
+Перевод: Европа Клиппер [Электронный ресурс].
+7.	Dragonfly [Электронный ресурс]. URL: https://science.nasa.gov/mission/dragonfly/ (2025).
+Перевод: Драгонфлай [Электронный ресурс].
+8.	InSight Science [Электронный ресурс]. URL: https://science.nasa.gov/mission/insight/science/ (2025).
+Перевод: Наука InSight [Электронный ресурс].
+9.	Mars 2020: Perseverance Rover [Электронный ресурс]. URL: https://science.nasa.gov/mission/mars-2020-perseverance/ (2026).
+Перевод: Марс 2020: Марсоход Perseverance [Электронный ресурс].
+10.	Основы космической связи [Электронный ресурс]. URL: https://repo.ssau.ru/bitstream/Uchebnye-izdaniya/Osnovy-kosmicheskoi-svyazi-111889/1/978-5-7883-2064-9_2024.pdf (2024).
+Перевод: Fundamentals of Space Communications [Электронный ресурс].
+11.	Space Communications: 7 Things You Need to Know [Электронный ресурс]. URL: https://www.nasa.gov/missions/tech-demonstration/space-communications-7-things-you-need-to-know/ (2023).
+Перевод: Космическая связь: 7 вещей, которые нужно знать [Электронный ресурс].
+12.	Overview of the Mars laser communications demonstration [Электронный ресурс]. URL: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5892/1/Overview-of-the-Mars-laser-communications-demonstration/10.1117/12.616275.short (2005).
+Перевод: Обзор демонстрации лазерной связи Марса [Электронный ресурс].
+13.	CCSDS Recommended Standards [Электронный ресурс]. URL: https://public.ccsds.org/default.aspx (2026).
+Перевод: Рекомендуемые стандарты CCSDS [Электронный ресурс].
+14.	A review of distributed sensing for planetary exploration [Электронный ресурс]. URL: https://www.sciencedirect.com/science/article/pii/S0094576520303060 (2020).
+Перевод: Обзор распределённого сенсинга для планетарной эксплорации [Электронный ресурс].
+15.	Mars sample return: bridging strategic knowledge gaps [Электронный ресурс]. URL: https://www.liebertpub.com/doi/10.1089/space.2019.0024 (2019).
+Перевод: Возврат образцов с Марса: преодоление стратегических пробелов в знаниях [Электронный ресурс].
+16.	Cost of Perseverance [Электронный ресурс]. URL: https://www.planetary.org/space-policy/cost-of-perseverance (2020).planetary+1
+Перевод: Стоимость Perseverance [Электронный ресурс].
+17.	NASA Reveals Europa Clipper Cost Growth [Электронный ресурс]. URL: https://spacepolicyonline.com/news/nasa-reveals-europa-clipper-cost-growth-mars-sample-return-replan/ (2022). 
+Перевод: NASA раскрывает рост стоимости Europa Clipper [Электронный ресурс].
+18.	Europa Clipper Cost Chart [Электронный ресурс]. URL: https://www.planetary.org/charts/europa-clipper-cost-chart (2024). 
+Перевод: График затрат Europa Clipper [Электронный ресурс].
+19.	NASA's Management of the Dragonfly Project [Электронный ресурс]. URL: https://oig.nasa.gov/wp-content/uploads/2025/09/final-report-ig-25-011-nasas-managment-of-the-dragonfly-project.pdf (2025). 
+Перевод: Управление проектом Dragonfly от NASA [Электронный ресурс].
